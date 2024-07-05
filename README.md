@@ -1,2 +1,2 @@
 # working-papers
-repo for tego desci working papers
+repo for tego working papers
